@@ -5,16 +5,16 @@
 }
 
 .portofolio__item {
-  background: var(--color-bg-variant);
+  background: transparent;
+  border: 1px solid var(--color-primary-variant);
   padding: 1.3rem;
   border-radius: 2rem;
-  border: 1px solid transparent;
   transition: var(--transition);
 }
 
 .portofolio__item:hover {
-  border-color: var(--color-primary-variant);
-  background: transparent;
+  background: var(--color-bg-variant);
+  border: none;
 }
 .portofolio__item-image {
   border-radius: 1.5rem;
