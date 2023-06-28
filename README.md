@@ -12,10 +12,10 @@
 
 ## Technologies Used
 
- - react: version 18.2.0
- - react-icons: version 4.9.0
- - react-toast: version 1.0.3
- - typewriter-effect: version 2.20.1
+ - **react**: version 18.2.0
+ - **react-icons**: version 4.9.0
+ - **react-toast**: version 1.0.3
+ - **typewriter-effect**: version 2.20.1
 
 ## Screenshots
 
