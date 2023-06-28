@@ -19,7 +19,7 @@
 
 ## Screenshots
 
-![Example screenshot](./public/assets/images/screenshot.png)
+![Example screenshot](./public/personal-website.png)
 
 ## Setup
 
