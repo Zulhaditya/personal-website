@@ -15,8 +15,7 @@
 }
 
 .contact__option {
-  background-color: transparent;
-  border: 1px solid var(--color-primary-variant);
+  background: var(--color-bg-variant);
   padding: 1.2rem;
   border-radius: 1.2rem;
   text-align: center;
@@ -24,8 +23,8 @@
 }
 
 .contact__option:hover {
-  background: var(--color-bg-variant);
-  border: none;
+  background: transparent;
+  border: 1px solid var(--color-primary-variant);
   cursor: default;
 }
 
