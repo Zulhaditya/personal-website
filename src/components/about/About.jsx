@@ -38,7 +38,7 @@ const About = () => {
           </div>
 
           <p>
-            I am a bachelor of informatics engineering at the Amikom University,
+            I am a bachelor of informatics engineering at Universitas Amikom
             Yogyakarta. Now, i&#39;m learning Node.js to create web applications
             and have experience working with MySQL and MongoDB databases.
           </p>
