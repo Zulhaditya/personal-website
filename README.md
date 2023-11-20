@@ -1,6 +1,6 @@
 # Personal Website
 
->This is my personal website using React. On this website, I present some of my skills, work experience, and various website projects that I have worked on. [_here_](https://zulhaditya.netlify.app/).
+>This is my personal website using React. On this website, I present some of my skills, work experience, and various website projects that I have worked on. [_here_](https://zulhaditya.vercel.app/).
 
 ## Table of Contents
 
